@@ -40,4 +40,5 @@ Other
     --includes            respect include directives on lookup
     --show-origin         show origin of config (file, standard input, blob, command line)
     --show-scope          show scope of config (worktree, local, global, system, command)
-    --default <value>     with --get, use default value when missing entry
+    --default <value>     with --get, use default value when missing entry 
+THANK YOU!!!S
